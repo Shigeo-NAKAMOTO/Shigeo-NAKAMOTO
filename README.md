@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working on [Python, Django, Docker]
 
-### SNS
+### other
 * twitter: https://twitter.com/shigechi
+* facebook: https://www.facebook.com/shigeo.nakamoto.9
 
 
 
