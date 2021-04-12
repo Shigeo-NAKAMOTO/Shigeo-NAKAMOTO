@@ -2,6 +2,11 @@
 
 - 🔭 I’m currently working on [Python, Django, Docker]
 
+### SNS
+* twitter: https://twitter.com/shigechi
+
+
+
 
 <!--
 **Shigeo-NAKAMOTO/Shigeo-NAKAMOTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
