@@ -2,7 +2,16 @@
 
 - 🔭 I’m currently working on [Python, Django, Docker]
 
-### other
+### Technology that has been used in business
+- Python
+- PHP
+- Laravel
+- MySQL
+- PostgreSQL
+- AWS
+- Docker
+
+### Other
 * twitter: https://twitter.com/shigechi
 * facebook: https://www.facebook.com/shigeo.nakamoto.9
 
