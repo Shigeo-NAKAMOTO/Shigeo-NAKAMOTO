@@ -5,7 +5,9 @@
 ### experienced technology in business
 - Python
 - PHP
+- JavaScript
 - Laravel
+- Vue.js
 - MySQL
 - PostgreSQL
 - AWS
