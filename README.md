@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Python, Django, Docker]
 
-### Technology that has been used in business
+### experienced technology in business
 - Python
 - PHP
 - Laravel
