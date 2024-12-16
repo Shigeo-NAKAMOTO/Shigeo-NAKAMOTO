@@ -1,24 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on [Python, Django, Docker]
-
-### experienced technology in business
-- Python
-- PHP
-- JavaScript
-- Laravel
-- Vue.js
-- MySQL
-- PostgreSQL
-- AWS
-- Docker
-
-### Other
-* twitter: https://twitter.com/shigechi
-* facebook: https://www.facebook.com/shigeo.nakamoto.9
-
-
-
+### Hello👋
 
 <!--
 **Shigeo-NAKAMOTO/Shigeo-NAKAMOTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
